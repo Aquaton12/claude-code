@@ -145,6 +145,10 @@
       },
       "source": "./plugins/security-guidance",
       "category": "security"
+      {
+      "name": "MS DHONI"
+      
+    };
     }
   ]
 }
